@@ -53,6 +53,7 @@ from the [Shri Ram College of Commerce](https://www.srcc.edu/), [University of D
 owned by Euromoney). My first “real” job was an assistant professor at [Purdue University](https://business.purdue.edu/), followed by a stint at [Emory University](https://goizueta.emory.edu/). I moved to Arizona State in 2005.
 
 **Teaching**
+
 In 2005, I took over ASU’s Student Investment Management (SIM) Funds and rebuilt the
 program from scratch. Students are required to take my Portfolio Engineering course, which is
 essentially an applied version of asset pricing. It helps students understand the drivers of returns
