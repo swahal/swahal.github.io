@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **About**
+
 I am Sunil Wahal, the Jack D. Furst Professor of Finance and Director of the Center for
 Responsible Investing (https://cri.wpcarey.asu.edu/) at the W.P. Carey School of Business
 (https://wpcarey.asu.edu/), Arizona State University. I’m a financial economist with interests in
@@ -20,6 +21,7 @@ industry, including asset managers, RIAs, Endowments &amp; Foundations, Sovereig
 Funds. I am a consultant to [Avantis Investors](https://www.avantisinvestors.com/).
 
 **My Research**
+
 I started my career working in corporate finance but after writing several studies in the area, my
 interests wandered to capital markets – specifically towards the behavior of institutional
 investors, investment strategies, and market microstructure. These were not random wanderings.
@@ -30,6 +32,7 @@ microstructure because there is no Walrasian Auctioneer and prices do not magica
 practitioners and academics ignore frictions at their own peril.
 
 **My Industry Interactions**
+
 Although I never met him, I am heavily influenced by the writings of Fischer Black, who pointed
 out that financial economists should spend time with practitioners, and that practitioners should
 mingle with economists. Since finance is about prices and behavior, it is easy for academics to
@@ -42,13 +45,14 @@ financial science to sovereign wealth funds, endowments, foundations, family off
 DC plans, and RIAs.
 
 **My Background and History**
+
 I was born in India but am a citizen of the world. As a child, I moved around the world and was
 educated in India, London, Hong Kong, and the United States. I have traveled to all seven
 continents and spent time in all seven ecosystems. My undergraduate degree is in Economics
 from the [Shri Ram College of Commerce](https://www.srcc.edu/), [University of Delhi](https://www.du.ac.in/). I then moved to the US, got an MBA from [Wake Forest University](https://business.wfu.edu/mba/), and Ph.D. from the [University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu/). My first job was in my “gap year” out of high school as an Associate Editor at a banking and capital markets publication in Hong Kong (Asiabanking, now
 owned by Euromoney). My first “real” job was an assistant professor at [Purdue University](https://business.purdue.edu/), followed by a stint at [Emory University](https://goizueta.emory.edu/). I moved to Arizona State in 2005.
 
-TEACHING
+**Teaching**
 In 2005, I took over ASU’s Student Investment Management (SIM) Funds and rebuilt the
 program from scratch. Students are required to take my Portfolio Engineering course, which is
 essentially an applied version of asset pricing. It helps students understand the drivers of returns
