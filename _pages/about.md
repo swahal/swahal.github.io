@@ -10,9 +10,8 @@ redirect_from:
 
 **About**
 
-I am Sunil Wahal, the Jack D. Furst Professor of Finance and Director of the Center for
-Responsible Investing (https://cri.wpcarey.asu.edu/) at the W.P. Carey School of Business
-(https://wpcarey.asu.edu/), Arizona State University. I’m a financial economist with interests in
+I am Sunil Wahal, the Jack D. Furst Professor of Finance and Director of the [Center for
+Responsible Investing](https://cri.wpcarey.asu.edu/) at the [W.P. Carey School of Business](https://wpcarey.asu.edu/), Arizona State University. I’m a financial economist with interests in
 quantitative investment strategies, trading (including market microstructure and algorithmic
 trading), delegating portfolio management, and investment vehicle design (mutual funds, ETFs,
 SMAs etc.). Much of my research resides at the intersection of financial science and application
