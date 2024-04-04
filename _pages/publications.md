@@ -11,7 +11,7 @@ author_profile: true
 
 **Working Papers**
 
-Available at: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=17867
+Available on my SSRN [profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=17867)
 
 [R&amp;D, Innovation, and the Stock Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4568392) (with Amit Goyal)  
 Does the market know how to price R&amp;D and innovation?
