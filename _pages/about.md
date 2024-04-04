@@ -53,7 +53,7 @@ owned by Euromoney). My first “real” job was an assistant professor at [Purd
 
 **Teaching**
 
-In 2005, I took over ASU’s Student Investment Management (SIM) Funds and rebuilt the
+In 2010, I took over ASU’s Student Investment Management (SIM) Funds and rebuilt the
 program from scratch. Students are required to take my Portfolio Engineering course, which is
 essentially an applied version of asset pricing. It helps students understand the drivers of returns
 but in a manner that reflects real world frictions and tradeoffs. Once students have been
