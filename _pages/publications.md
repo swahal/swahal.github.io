@@ -71,3 +71,42 @@ The market for mutual funds is highly competitive. Investors benefit.
 Goyal), Journal of Finance, 2010  
 Very little persistence in the performance of institutional investment managers.
 
+[The Selection and Termination of Investment Management Firms by Plan Sponsors](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2008.01375.x) (with Amit
+Goyal), Journal of Finance, 2008  
+Plan sponsors chase winners. It doesn’t help.
+
+[Grandstanding, Certification and the Underpricing of Venture Capital Backed IPOs](https://www.sciencedirect.com/science/article/pii/S0304405X04000339) (with Peggy
+M. Lee), Journal of Financial Economics, 2004  
+VC back IPOs have larger first day returns than non-VC backed IPOs. Why? Grandstanding.
+
+[Institutional Trading and Alternative Trading Systems](https://www.sciencedirect.com/science/article/pii/S0304405X03001430) (with Jennifer Conrad and Kevin M.
+Johnson), Journal of Financial Economics, 2003  
+Alternative trading systems have lower execution costs.
+
+[Momentum Trading by Institutions](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1540-6261.00502) (with Swaminathan Badrinath), Journal of Finance, 2003  
+Institutions are momentum traders when they initiate new positions but not otherwise.
+
+[Agency Conflicts in Closed-End Funds: The Case of Rights Offerings](https://www.jstor.org/stable/3595002) (with Ajay Khorana and
+Marc Zenner)
+Journal of Financial and Quantitative Analysis, 2002  
+Rights offerings in closed-end funds are just a way to extract rents.
+
+[Institutional Trading and Soft Dollars](https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00331) (with Jennifer Conrad and Kevin M. Johnson), Journal of Finance, 2001  
+Soft dollar brokerage costs more.
+
+[Spin-offs, Ex Ante](https://www.jstor.org/stable/10.1086/209672) (with John McConnell and Mehmet Ozbilgin), Journal of Business, 2001  
+Investment strategies always look better ex post than ex ante.
+
+[Do institutional investors exacerbate managerial myopia?](https://www.sciencedirect.com/science/article/pii/S0929119900000055) (with John McConnell), Journal of Corporate Finance, 2000  
+SS: No, institutions don’t cause corporate managers to behave myopically.
+
+[Entry, Exit, Market Makers, and the Bid-Ask Spread](https://academic.oup.com/rfs/article/10/3/871/1636792)
+Review of Financial Studies, 1997  
+Free entry is a wonderful thing. Especially in the market making business.
+
+[Pension fund activism and firm performance](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/pension-fund-activism-and-firm-performance/304771363B4E55773554DCA35B5214F9), Journal of Financial and Quantitative Analysis, 1996  
+One of the earliest studies of pension fund activism. Doesn’t appear to achieve its objectives.
+
+[Who Opts Out of State Antitakeover Protection?: The Case of Pennsylvania’s SB 1310](https://www.jstor.org/stable/3665555) (with
+Kenneth Wiles and Marc Zenner), Financial Management, 1995  
+Why do we need state-level antitakeover protection when firms can do it themselves?
